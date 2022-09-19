@@ -97,7 +97,6 @@ main {
                 gap: 10px;
                 
 }
-	
 .header {
 		margin-left: 40px;
                 margin-top: 20px
@@ -140,4 +139,7 @@ main {
     width: 12%;
     font-size: 15px;
  }
+.Crew div:nth-child(even) {
+      margin-top: 0 auto;
+}
 }
