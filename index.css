@@ -139,7 +139,7 @@ main {
     width: 12%;
     font-size: 15px;
  }
-.Crew div:nth-child(even) {
-      margin-top: 0 auto;
+.Crew div:nth-child(2) {
+      margin-top: 80px;
 }
 }
