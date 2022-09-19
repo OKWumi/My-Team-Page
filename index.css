@@ -11,6 +11,9 @@ main {
 		justify-content: center;
                 
 }
+.Crew div:nth-child(even) {
+      margin-top: 40px;
+}
 .info h1 {
 		padding: 20px 15px 15px 16px;
 		font-family: Garamond, serif;
@@ -94,6 +97,7 @@ main {
                 gap: 10px;
                 
 }
+	
 .header {
 		margin-left: 40px;
                 margin-top: 20px
